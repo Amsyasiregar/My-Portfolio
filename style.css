@@ -748,7 +748,7 @@ span {
     }
 }
 @media(max-width:895px) {
-    #home .home-content ha span {
+    #home .home-content h1 span {
         font-size: 50px;
     }
     #menu-icon {
@@ -830,14 +830,14 @@ span {
     }
 }
 @media(max-width:510px) {
-    #home .home-content ha span {
+    #home .home-content h1 span {
         font-size: 40px;
     }
     .about-body {
         max-width: auto;
         margin-left: 0;
         margin: 5rem 4rem;
-        margin-top: 200px;
+        margin-top: 100px;
         top: 100rem;
     }
     .about-body h3 {
@@ -889,27 +889,6 @@ span {
     .footer {
         margin-top: 300px;
     }
-}
-
-/* .container{
-    width: 100%;
-    height: 100vh;
-    background: linear-gradient(to right, #485563, #29323c);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.btn{
-    padding: 10px 60px;
-    background: #fff;
-    border: 0;
-    outline: none;
-    cursor: pointer;
-    font-size: 22px;
-    font-weight: 500;
-    border-radius: 10px;
-    transition: transform 0.2s;
 }
 
 .btn:active{
