@@ -748,6 +748,9 @@ span {
     }
 }
 @media(max-width:895px) {
+    #home .home-content ha span {
+        font-size: 50px;
+    }
     #menu-icon {
         display: block;
     }
@@ -827,6 +830,9 @@ span {
     }
 }
 @media(max-width:510px) {
+    #home .home-content ha span {
+        font-size: 40px;
+    }
     .about-body {
         max-width: auto;
         margin-left: 0;
